@@ -88,6 +88,20 @@ Both methods complement each other: GA identifies **optimal pricing strategies**
 - Integrate **regression models** or **deep learning** for improved sales prediction.  
 - Explore **real-time optimization systems** for dynamic pricing.  
 - Combine clustering insights directly with GA for **personalized discounts per customer segment**.  
+---
+
+## 📓 Jupyter Notebook
+
+You can explore the full analysis in the Jupyter Notebook:
+
+[Optimization with Genetic Algorithm and K-Means.ipynb](Optimization-with-Genetic-Algorithm-and-K-Means.ipynb)
+
+### Run Online 🚀
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elahehmood/Price-Optimization-Customer-Clustering-with-Genetic-Algorithms/blob/main/Optimization-with-Genetic-Algorithm-and-K-Means.ipynb)
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USERNAME/REPO/HEAD?labpath=Optimization-with-Genetic-Algorithm-and-K-Means.ipynb)
 
 ---
 
